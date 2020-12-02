@@ -1,0 +1,2 @@
+This scripts use "Store Script" to load the Itens.
+!Warning! You need to link everything inside the Unity.

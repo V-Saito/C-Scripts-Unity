@@ -1,0 +1,1 @@
+Only put this inside a Empty GameObject, you can use mouse to simulate the Touch Screen.

@@ -1,0 +1,2 @@
+This script loads a sequence of Prefabs, in Random mode, only the first Prefab aways are the First One.
+!Warning! you need to link your prefabs inside the script in Unity, Aways prefabs need to have same Lenght, and you need to change the lenght inside the script

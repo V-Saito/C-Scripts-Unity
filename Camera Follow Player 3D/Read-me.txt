@@ -1,0 +1,1 @@
+Simple script, only put this inside the camera, and link "Player Object" inside the script in Cam.

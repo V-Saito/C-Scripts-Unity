@@ -1,0 +1,2 @@
+Only put this script inside the "Player GameObject", Inside this script has a Bool, you need to make this bool True, after this the players starts to run.
+!Warning! For now you need the Swipe Controls, but you can change the Inputs inside the Script!!!
